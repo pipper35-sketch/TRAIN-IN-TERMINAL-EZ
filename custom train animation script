@@ -1,0 +1,8 @@
+cd ~/Desktop
+
+chmod +x train.sh
+./train.sh
+
+python3 train.py
+
+now put the name
