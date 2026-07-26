@@ -1,1 +1,9 @@
+sl
 
+If you get command not found: sl, install it with:
+
+brew install sl
+
+sl
+
+done
